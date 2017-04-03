@@ -1,0 +1,3 @@
+chua xong
+To do list: 
+- làm thêm guess word ho?c chuy?n sang trò khác chung ph?n r?n ....
